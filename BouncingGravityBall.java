@@ -138,8 +138,6 @@ class BouncingGravityBall extends Thread {
 	    
 	    container.repaint();
 	}
-
-	done = true;
     }
 
     /**
